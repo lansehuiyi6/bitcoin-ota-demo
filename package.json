@@ -1,0 +1,16 @@
+{
+  "name": "btc-ota-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jacob",
+  "license": "MIT",
+  "dependencies": {
+    "bitcoin-core": "^3.0.0",
+    "bitcoinjs-lib": "^5.0.2",
+    "crypto": "^1.0.1"
+  }
+}
